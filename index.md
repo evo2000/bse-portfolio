@@ -1,5 +1,5 @@
 # IoT Wireless Car
-The IoT Wireless Car is a small three-wheeled robot which can be controlled by anyone in the world with an internet connection! It uses an Arduino and full-bridge to control it's drive motors, and an ESP8266 to connect to a local wireless network. The Arduino and ESP communicate with each other over a two-wire serial interface, allowing for bi-directional exchange between the vehicle and it's operator over the internet. The device uses Blynk's IoT platform for a streamlined mobile user interface.
+The IoT Wireless Car is a small three-wheeled robot which can be controlled from anywhere in the world with internet access! It uses an Arduino and full-bridge to control it's drive motors, and an ESP8266 to connect to a local wireless network. The Arduino and ESP communicate with each other over a two-wire serial interface, allowing for bi-directional exchange between the vehicle and it's operator over the internet. The device uses Blynk's IoT platform for a streamlined mobile user interface.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
